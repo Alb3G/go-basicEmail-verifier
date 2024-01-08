@@ -5,3 +5,6 @@ A mx record always has to point to another domain.
 - SPF Record: DNS record that identifies which mail servers are authorized to send mails from your domain's name.
 
 - DMARC (Domain-based Message Authentication, Reporting and Conformance):A report mechanism that helps domain owners protect against unauthorized email usage.
+
+NEXT TASK
+-Make the frontend to display the results of the lookUps and display it to the user, using htmx.
